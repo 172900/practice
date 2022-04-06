@@ -1,0 +1,15 @@
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\bin\Debug\net6.0\structure.exe
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\bin\Debug\net6.0\structure.deps.json
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\bin\Debug\net6.0\structure.runtimeconfig.json
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\bin\Debug\net6.0\structure.dll
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\bin\Debug\net6.0\structure.pdb
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\structure.csproj.AssemblyReference.cache
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\structure.AssemblyInfoInputs.cache
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\structure.AssemblyInfo.cs
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\structure.dll
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\refint\structure.dll
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\structure.pdb
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\structure.genruntimeconfig.cache
+C:\Users\전재웅\Desktop\Projects\개인연습용\structure\obj\Debug\net6.0\ref\structure.dll
